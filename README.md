@@ -31,7 +31,7 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
-[exp 9.pdf](https://github.com/user-attachments/files/23001533/exp.9.pdf)
+
 
 # Result: The Prompt of the above task executed successfully
 
@@ -44,4 +44,5 @@ Save different versions of the videos and compare the results to understand how 
 
 
 # Result:
+[exp 9.pdf](https://github.com/user-attachments/files/23001533/exp.9.pdf)
 
